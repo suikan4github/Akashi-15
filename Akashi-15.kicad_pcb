@@ -1870,7 +1870,7 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp df87b195-f795-4501-94c6-786381df2ec8))
   (gr_line (start 193.04 139.7) (end 114.3 139.7)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp fa27ee67-eb9a-44dc-b88c-763b6ec07515))
-  (gr_text "https://github.com/suikan4github/Akashi-15\n(C) Seiichi {dblquote}Suikan{dblquote} Horie, v1.0.0, 2023" (at 170.18 138.43) (layer "B.SilkS") (tstamp efefb4a0-8a1e-4370-8401-b3661b346d87)
+  (gr_text "https://github.com/suikan4github/Akashi-15\n(C) Seiichi {dblquote}Suikan{dblquote} Horie, v1.0.1, 2023" (at 170.18 138.43) (layer "B.SilkS") (tstamp efefb4a0-8a1e-4370-8401-b3661b346d87)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
   )
   (gr_text "Akashi-15" (at 147.32 138.43) (layer "F.SilkS") (tstamp 00d30d08-083a-40f1-953a-fef2d07f2dc1)
