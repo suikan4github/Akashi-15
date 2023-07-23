@@ -1,0 +1,14 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+<TITLE>Nucleo 64 daughter board</TITLE>
+</HEAD>
+<BODY LANG="en-US" DIR="LTR">
+  <P>
+    This project template is the basis of <A HREF="hhttps://github.com/suikan4github/Akashi-15">Akashi-15</A>.
+    An daughter board for <A HREF="https://www.st.com/en/evaluation-tools/stm32-nucleo-boards.html" TARGET="blank">Nucleo 64</A>.
+  </P>
+  <P>License: MIT</P>
+</BODY>
+</HTML>
